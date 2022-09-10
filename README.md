@@ -8,3 +8,6 @@ A melhor coisa sobre este tutorial é que usaremos técnicas básicas de process
 - CV2
 - cvzone.
 - numpy.
+
+# Resultado
+![image](https://user-images.githubusercontent.com/97474576/189489611-742aba87-102a-400f-81f6-7d59cbdce6d5.png)
